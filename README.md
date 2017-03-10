@@ -2,6 +2,8 @@
 
 Generate Ember-Data models from JSON Schemas.
 
+[![Build Status](https://travis-ci.org/0x4e3/ember-json-schema.svg?branch=master)](https://travis-ci.org/0x4e3/ember-json-schema)
+
 ## Usage
 
 First, install the addon:
